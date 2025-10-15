@@ -16,3 +16,7 @@
 </div>
 
 ##
+
+### Minha Atividade no GitHub
+
+![Snake game](https://github.com/Mateus-Dantas-007/Mateus-Dantas-007/blob/output/github-contribution-grid-snake.svg)
