@@ -3,7 +3,11 @@
 - 🌱 Atualmente estudando Java, React, JavaScript e C#
 - 😄 Pronomes : Ele/Dele
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateus-Dantas-007&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/Mateus-Dantas-007">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Dantas-007&layout=compact&langs_count=8&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Dantas-007&show_icons=true&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
